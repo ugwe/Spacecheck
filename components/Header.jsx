@@ -87,7 +87,7 @@ const Header = () => {
                     <FaDoorOpen className='inline mr-1' /> Login
                     </Link>
                     <Link href="/register"
-                      className="text-gray-950 hover:text-gray-50 border border-red-950 hover:bg-red-950 hover:font-bold hover:text-white px-4 py-1 rounded w-full sm:w-auto text-center">
+                      className="ml-2 text-gray-950 hover:text-gray-50 border border-red-950 hover:bg-red-950 hover:font-bold hover:text-white px-4 py-1 rounded w-full sm:w-auto text-center">
 
                     <FaUserPlus className='inline mr-1' /> Register
                     </Link>
@@ -104,11 +104,11 @@ const Header = () => {
 
                 <>
                   <Link href="/spaces/my"
-                  className="text-gray-950 hover:text-gray-50 border border-red-950 hover:bg-red-950 hover:font-bold hover:text-white px-2 py-1 rounded w-full sm:w-auto text-center">
+                  className="text-gray-950 hover:text-gray-50 border border-red-950 hover:bg-red-950 hover:font-bold hover:text-white px-2  rounded w-full sm:w-auto text-center">
                   <FaSearchLocation className='inline mr-1' /> My Spaces
                   </Link>
                 
-                  <button onClick={handleLogout} className="ml-4 text-gray-950 hover:text-gray-50 border border-red-950 hover:bg-red-950 hover:font-bold hover:text-white px-4 py-1 rounded w-full sm:w-auto text-center">
+                  <button onClick={handleLogout} className="text-gray-950 hover:text-gray-50 border border-red-950 hover:bg-red-950 hover:font-bold hover:text-white px-2 rounded w-full sm:w-auto text-center">
                   <FaDoorClosed className='inline mr-1' /> Sign Out
                   </button>
                 </>
@@ -132,6 +132,7 @@ const Header = () => {
             Spaces
 
           </Link>
+
           {/* <!-- Logged In Only --> */}
           <Link
             href="/bookings"
