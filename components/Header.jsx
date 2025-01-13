@@ -108,7 +108,7 @@ const Header = () => {
                   <FaSearchLocation className='inline mr-1' /> My Spaces
                   </Link>
                 
-                  <button onClick={handleLogout} className="text-gray-950 hover:text-gray-50 border border-red-950 hover:bg-red-950 hover:font-bold hover:text-white px-2 rounded w-full sm:w-auto text-center">
+                  <button onClick={handleLogout} className="ml-2 text-gray-950 hover:text-gray-50 border border-red-950 hover:bg-red-950 hover:font-bold hover:text-white px-2 rounded w-full sm:w-auto text-center">
                   <FaDoorClosed className='inline mr-1' /> Sign Out
                   </button>
                 </>
