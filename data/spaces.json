@@ -1,0 +1,68 @@
+[
+    {
+      "$id": "1",
+      "user_id": "1",
+      "name": "Sharples Commons Room 160",
+      "description": "Spacious room, suitable for student conferences and group study.",
+      "capacity": 12,
+      "location": "DCC, Ground Floor",
+      "amenities": "AC, Projector, Whiteboards, Video Conferencing, Wi-Fi, Sound System",
+      "times_available": "8 AM - 11 PM",
+      "image": "no_image.jpeg"
+    },
+    {
+      "$id": "2",
+      "user_id": "1",
+      "name": "Sharples Commons Room 163",
+      "description": "Well lit room with multiple whiteboards and easels. Perfect for close study with friends and group projects",
+      "capacity": 6,
+      "location": "DCC, Ground Floor",
+      "amenities": "AC, Whiteboards, Video Conferencing, Wi-Fi, Sound System",
+      "times_available": "8 AM - 11 PM",
+      "image": "no_image.jpeg"
+    },
+    {
+      "$id": "3",
+      "user_id": "1",
+      "name": "Sharples Commons Room 164",
+      "description": "Well lit room with multiple whiteboards and easels. Perfect for close study with friends and group projects",
+      "capacity": 4,
+      "location": "DCC, Ground Floor",
+      "amenities": "AC, Whiteboards, Video Conferencing, Wi-Fi, Sound System",
+      "times_available": "8 AM - 11 PM",
+      "image": "no_image.jpeg"
+    },
+    {
+      "$id": "4",
+      "user_id": "2",
+      "name": "Sharples Commons Room 167",
+      "description": "Small quiet space ideal for students who want to study alone or in pairs. Small table available ",
+      "capacity": 2,
+      "location": "DCC, Ground Floor",
+      "amenities": "AC, Whiteboard",
+      "times_available": "8 AM - 11 PM",
+      "image": "no_image.jpeg"
+    },
+    {
+      "$id": "5",
+      "user_id": "2",
+      "name": "Sharples Commons Room 262",
+      "description": "Well lit space with louge chairs. Ideal for leisure and Movienights",
+      "capacity": 6,
+      "location": "DCC, Second Floor",
+      "amenities": "AC, Television, Projector, Wi-Fi, Sound System",
+      "times_available": "8 AM - 11 PM",
+      "image": "no_image.jpeg"
+    },
+    {
+        "$id": "6",
+        "user_id": "3",
+        "name": "Sharples Commons Room 266",
+        "description": "Spacious room with floor mats. Perfect for meditation and/or Yoga",
+        "capacity": 10,
+        "location": "DCC, Second Floor",
+        "amenities": "AC, Wi-Fi",
+        "times_available": "8 AM - 11 PM",
+        "image": "no_image.jpeg"
+    }
+  ]
