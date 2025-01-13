@@ -87,7 +87,7 @@ const Header = () => {
                     <FaDoorOpen className='inline mr-1' /> Login
                     </Link>
                     <Link href="/register"
-                      className="ml-4 text-gray-950 hover:text-gray-50 border border-red-950 hover:bg-red-950 hover:font-bold hover:text-white px-4 py-1 rounded w-full sm:w-auto text-center">
+                      className="ml-2 text-gray-950 hover:text-gray-50 border border-red-950 hover:bg-red-950 hover:font-bold hover:text-white px-4 py-1 rounded w-full sm:w-auto text-center">
 
                     <FaUserPlus className='inline mr-1' /> Register
                     </Link>
