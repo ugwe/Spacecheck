@@ -1,3 +1,7 @@
+Access the public version of SpaceCheck through this link: https://spacecheck.vercel.app/
+
+
+
 Spacecheck is a web application built to streamline the process of reserving spaces on Swarthmore's College campus. With the continued construction of campus buildings, implementation of a space reserving system is important to make it easier for students to gain access to spaces to host their social events, study in groups, or get some personal time for their own work and/or leisure. Below are demos of some processes that can be carried out on SpaceCheck:
 
 **Registration demo:**
